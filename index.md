@@ -2,7 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Name: Jordan Lawson
+Student Number:4398105
 
 [Link to another page](./another-page.html).
 
